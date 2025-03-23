@@ -1,0 +1,15 @@
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\bin\Debug\net9.0\dotNetVisualStudioCode.exe
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\bin\Debug\net9.0\dotNetVisualStudioCode.deps.json
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\bin\Debug\net9.0\dotNetVisualStudioCode.runtimeconfig.json
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\bin\Debug\net9.0\dotNetVisualStudioCode.dll
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\bin\Debug\net9.0\dotNetVisualStudioCode.pdb
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\dotNetVisualStudioCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\dotNetVisualStudioCode.AssemblyInfoInputs.cache
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\dotNetVisualStudioCode.AssemblyInfo.cs
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\dotNetVisualStudioCode.csproj.CoreCompileInputs.cache
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\dotNetVisualStudioCode.sourcelink.json
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\dotNetVisualStudioCode.dll
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\refint\dotNetVisualStudioCode.dll
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\dotNetVisualStudioCode.pdb
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\dotNetVisualStudioCode.genruntimeconfig.cache
+D:\projects\active\studies\estudos-CSHARP-DOTNET\dotNetVisualStudioCode\obj\Debug\net9.0\ref\dotNetVisualStudioCode.dll

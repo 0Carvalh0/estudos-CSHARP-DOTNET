@@ -1,0 +1,7 @@
+D:\projects\active\studies\estudos-CSHARP-DOTNET\Aula04\Aula04\bin\Debug\Aula04.exe.config
+D:\projects\active\studies\estudos-CSHARP-DOTNET\Aula04\Aula04\bin\Debug\Aula04.exe
+D:\projects\active\studies\estudos-CSHARP-DOTNET\Aula04\Aula04\bin\Debug\Aula04.pdb
+D:\projects\active\studies\estudos-CSHARP-DOTNET\Aula04\Aula04\obj\Debug\Aula04.csproj.AssemblyReference.cache
+D:\projects\active\studies\estudos-CSHARP-DOTNET\Aula04\Aula04\obj\Debug\Aula04.csproj.CoreCompileInputs.cache
+D:\projects\active\studies\estudos-CSHARP-DOTNET\Aula04\Aula04\obj\Debug\Aula04.exe
+D:\projects\active\studies\estudos-CSHARP-DOTNET\Aula04\Aula04\obj\Debug\Aula04.pdb
